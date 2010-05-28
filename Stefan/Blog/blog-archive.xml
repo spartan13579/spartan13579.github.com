@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://students.ciss.com.cn/stefan2013197/Stefan/Blog</link>
+    <description>LOOK! I have a blog. Hopefully, this whole website will exist even when I leave China for the United States. If it does, I will have to change this. If it doesn&#x2019;t, then...well...you wont see this ever again.</description>
+    <item>
+      <title>Nothing really...</title>
+      <link>http://students.ciss.com.cn/stefan2013197/Stefan/Blog/Entries/2010/5/28_Nothing_really....html</link>
+      <guid isPermaLink="false">e4d83c63-ea2e-4a87-aacf-4365ac06c2f4</guid>
+      <pubDate>Fri, 28 May 2010 13:42:52 +0800</pubDate>
+      <iweb:comment link="http://students.ciss.com.cn/stefan2013197/Stefan/Blog/Entries/2010/5/28_Nothing_really....html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://students.ciss.com.cn/stefan2013197/Stefan/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

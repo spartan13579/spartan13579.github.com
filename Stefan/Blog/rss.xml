@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blogify</title>
+    <link>http://students.ciss.com.cn/stefan2013197/Stefan/Blog/Blog.html</link>
+    <description>LOOK! I have a blog. Hopefully, this whole website will exist even when I leave China for the United States. If it does, I will have to change this. If it doesn’t, then...well...you wont see this ever again.</description>
+    <generator>iWeb 3.0</generator>
+    <image>
+      <url>http://students.ciss.com.cn/stefan2013197/Stefan/Blog/Blog_files/IMG_1956.jpg</url>
+      <title>Blogify</title>
+      <link>http://students.ciss.com.cn/stefan2013197/Stefan/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>Nothing really...</title>
+      <link>http://students.ciss.com.cn/stefan2013197/Stefan/Blog/Entries/2010/5/28_Nothing_really....html</link>
+      <guid isPermaLink="false">e4d83c63-ea2e-4a87-aacf-4365ac06c2f4</guid>
+      <pubDate>Fri, 28 May 2010 13:42:52 +0800</pubDate>
+      <description>&lt;a href=&quot;http://students.ciss.com.cn/stefan2013197/Stefan/Blog/Entries/2010/5/28_Nothing_really..._files/AA043081_3x4a-1.jpg&quot;&gt;&lt;img src=&quot;http://students.ciss.com.cn/stefan2013197/Stefan/Blog/Media/object001_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:183px; height:137px;&quot;/&gt;&lt;/a&gt;Well, considering this is new, I wont have much. So, just deal with this measly amount of text, will ya? And I will just use the placeholder photo :P</description>
+      <enclosure url="http://students.ciss.com.cn/stefan2013197/Stefan/Blog/Entries/2010/5/28_Nothing_really..._files/AA043081_3x4a-1.jpg" length="38382" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

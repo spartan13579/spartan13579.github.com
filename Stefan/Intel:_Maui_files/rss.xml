@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Maui</title>
+    <link>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui.html</link>
+    <description>Pretty self explanatory.</description>
+    <item>
+      <link>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui.html#0</link>
+      <guid isPermaLink="false">213d7708-0d02-458b-9745-c5fdbd32e16b</guid>
+      <enclosure url="http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1916/IMG_1916.jpg" length="62334" type="image/jpeg"/>
+      <iphoto:thumbnail>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1916/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1916/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui.html#1</link>
+      <guid isPermaLink="false">58a12e62-e41c-4bfb-8bc6-c44e6db83804</guid>
+      <enclosure url="http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1918/IMG_1918.jpg" length="72665" type="image/jpeg"/>
+      <iphoto:thumbnail>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1918/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1918/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui.html#2</link>
+      <guid isPermaLink="false">c9c978d0-0794-40b3-b58d-28742f92c212</guid>
+      <enclosure url="http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1919/IMG_1919.jpg" length="69222" type="image/jpeg"/>
+      <iphoto:thumbnail>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1919/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1919/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui.html#3</link>
+      <guid isPermaLink="false">539a2857-3f9d-4f64-8f92-868b31b69e35</guid>
+      <enclosure url="http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1921/IMG_1921.jpg" length="62221" type="image/jpeg"/>
+      <iphoto:thumbnail>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1921/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1921/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui.html#4</link>
+      <guid isPermaLink="false">ef5143e9-5a48-4b58-8e52-758233beb235</guid>
+      <enclosure url="http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1920/IMG_1920.jpg" length="54007" type="image/jpeg"/>
+      <iphoto:thumbnail>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1920/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1920/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui.html#5</link>
+      <guid isPermaLink="false">a606a5e1-68af-426d-8ee7-964ba664e50f</guid>
+      <enclosure url="http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1905/IMG_1905.jpg" length="56007" type="image/jpeg"/>
+      <iphoto:thumbnail>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1905/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://students.ciss.com.cn/stefan2013197/Stefan/Intel%3A_Maui_files/Media/IMG_1905/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

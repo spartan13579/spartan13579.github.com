@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:F2F2DE4E-5A07-4923-A00B-7CC3D2D95EA3</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-05-28T15:16:00+08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:D0D6EC8A-27C4-48AE-895F-9DA6318980A6</id>
+  <title>Headquarters</title>
+  <title xmlns="urn:iweb:">Headquarters</title>
+  <in-navbar xmlns="urn:iweb:">D0D6EC8A-27C4-48AE-895F-9DA6318980A6</in-navbar>
+  <link rel="alternate" href="Headquarters.html"/>
+  <updated>2010-05-28T15:16:00.001+08:00</updated>
+  <content>Headquarters</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1CC52A8B-7CDB-4AE2-8114-BC1CF6EC9FC7</id>
+  <title>Intel: Pearl Harbor</title>
+  <title xmlns="urn:iweb:">Intel: Pearl Harbor</title>
+  <in-navbar xmlns="urn:iweb:">1CC52A8B-7CDB-4AE2-8114-BC1CF6EC9FC7</in-navbar>
+  <link rel="alternate" href="Intel%3A_Pearl_Harbor.html"/>
+  <updated>2010-05-28T15:16:00.002+08:00</updated>
+  <content>Intel: Pearl Harbor</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:03F26D1F-1E58-48C4-94CE-DB18B171E2F1</id>
+  <title>Intel: Maui</title>
+  <title xmlns="urn:iweb:">Intel: Maui</title>
+  <in-navbar xmlns="urn:iweb:">03F26D1F-1E58-48C4-94CE-DB18B171E2F1</in-navbar>
+  <link rel="alternate" href="Intel%3A_Maui.html"/>
+  <updated>2010-05-28T15:16:00.003+08:00</updated>
+  <content>Intel: Maui</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D59CECA3-2CEA-4D69-9EA9-939BE61A88D9</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">D59CECA3-2CEA-4D69-9EA9-939BE61A88D9</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2010-05-28T15:16:00.004+08:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:598DDFAF-FDC8-49C2-931A-7D3BEA6100D3</id>
+  <title>More stuff</title>
+  <title xmlns="urn:iweb:">More stuff</title>
+  <in-navbar xmlns="urn:iweb:">598DDFAF-FDC8-49C2-931A-7D3BEA6100D3</in-navbar>
+  <link rel="alternate" href="More_stuff.html"/>
+  <updated>2010-05-28T15:16:00.005+08:00</updated>
+  <content>More stuff</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3DE3A56B-1E0E-4CBD-8A11-A29C9F80BD34</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">3DE3A56B-1E0E-4CBD-8A11-A29C9F80BD34</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2007-01-24T01:29:52+08:00</updated>
+  <content>Blog</content>
+ </entry>
+</feed>

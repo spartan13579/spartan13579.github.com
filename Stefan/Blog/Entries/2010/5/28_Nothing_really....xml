@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="6AF5B2D7-8B1D-46BD-9D09-0F25D0F545A5">
+  <lastEdited clientType="local-build-20100528" date="2010-05-28 15:16:05 +0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;You just got Blogged&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Nothing really...</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Well, considering this is new, I wont have much. So, just deal with this measly amount of text, will ya? And I will just use the placeholder photo :P</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, May 28, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Nothing_really..._files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>
